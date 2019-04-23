@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![alt text](https://github.com/RogerPhilippe/FlutterBasic/blob/master/lib/img/SimpleCalcFlutter.PNG)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
